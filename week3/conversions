@@ -1,0 +1,14 @@
+this command in conslod on html
+{
+
+    String(123)
+        "123"
+    Number("123")
+        123
+    String(Date())
+        "Tue Jul 13 2021 21:15:11 GMT+0700 (เวลาอินโดจีน)"
+    Number(true)
+        1
+    Number(false)
+        0
+}

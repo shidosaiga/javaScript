@@ -1,0 +1,10 @@
+// Math.sqrt(64)
+// 8
+// Math.abs(-4.4)
+// 4.4
+// Math.ceil(4.5)
+// 5
+// Math.floor(4.1)
+// 4
+// Math.random()
+// 0.0625479815063732
